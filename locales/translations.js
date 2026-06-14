@@ -1,0 +1,183 @@
+window.BLUEPRINT_I18N = {
+  storageKey: "blueprintLanguage",
+  defaultLanguage: "en",
+  languages: [
+    { code: "en", label: "English", htmlLang: "en" },
+    { code: "fr", label: "Français", htmlLang: "fr" },
+    { code: "es", label: "Español", htmlLang: "es" },
+    { code: "pt", label: "Português", htmlLang: "pt" },
+    { code: "it", label: "Italiano", htmlLang: "it" },
+    { code: "ru", label: "Русский", htmlLang: "ru" },
+    { code: "ja", label: "日本語", htmlLang: "ja" }
+  ],
+  meta: {
+    en: {
+      title: "Reliable Umbrella Manufacturer | Custom OEM Umbrellas | Blueprint Umbrella",
+      description: "Blueprint Umbrella is a custom OEM and ODM umbrella manufacturer for global brand buyers, offering golf umbrellas, compact umbrellas, stick umbrellas, mini umbrellas and branded gift programs."
+    },
+    fr: {
+      title: "Fabricant fiable de parapluies | Parapluies OEM sur mesure | Blueprint Umbrella",
+      description: "Blueprint Umbrella est un fabricant OEM et ODM de parapluies sur mesure pour acheteurs B2B internationaux, avec parapluies de golf, compacts, droits, mini et programmes cadeaux de marque."
+    },
+    es: {
+      title: "Fabricante confiable de paraguas | Paraguas OEM personalizados | Blueprint Umbrella",
+      description: "Blueprint Umbrella es un fabricante OEM y ODM de paraguas personalizados para compradores B2B globales, con paraguas de golf, compactos, rectos, mini y programas promocionales de marca."
+    },
+    pt: {
+      title: "Fabricante confiável de guarda-chuvas | Guarda-chuvas OEM personalizados | Blueprint Umbrella",
+      description: "A Blueprint Umbrella é uma fabricante OEM e ODM de guarda-chuvas personalizados para compradores B2B globais, com modelos de golfe, compactos, retos, mini e programas promocionais de marca."
+    },
+    it: {
+      title: "Produttore affidabile di ombrelli | Ombrelli OEM personalizzati | Blueprint Umbrella",
+      description: "Blueprint Umbrella è un produttore OEM e ODM di ombrelli personalizzati per buyer B2B globali, con ombrelli da golf, compatti, diritti, mini e programmi promozionali di marca."
+    },
+    ru: {
+      title: "Надежный производитель зонтов | OEM-зонты на заказ | Blueprint Umbrella",
+      description: "Blueprint Umbrella — производитель OEM и ODM зонтов на заказ для международных B2B-покупателей: гольф-зонты, компактные, прямые, мини-зонты и брендированные промо-программы."
+    },
+    ja: {
+      title: "信頼できる傘メーカー | カスタムOEM傘 | Blueprint Umbrella",
+      description: "Blueprint Umbrellaは、世界のB2Bバイヤー向けにゴルフ傘、コンパクト傘、長傘、ミニ傘、ブランド販促向け傘を提供するカスタムOEM/ODM傘メーカーです。"
+    }
+  },
+  translations: {
+    fr: {
+      "Products": "Produits",
+      "Golf Umbrellas": "Parapluies de golf",
+      "Compact Umbrellas": "Parapluies compacts",
+      "Stick Umbrellas": "Parapluies droits",
+      "Mini Umbrellas": "Mini parapluies",
+      "Promotional Umbrellas": "Parapluies promotionnels",
+      "Custom Parts": "Pièces personnalisées",
+      "Applications": "Applications",
+      "Fashion & Lifestyle Brands": "Marques mode et lifestyle",
+      "Corporate Gift Programs": "Programmes de cadeaux d’entreprise",
+      "Travel & Luggage Brands": "Marques voyage et bagagerie",
+      "Outdoor & Sports Brands": "Marques outdoor et sport",
+      "Tourism & Museums": "Tourisme et musées",
+      "Technical Support": "Support technique",
+      "Logo Printing": "Impression de logo",
+      "Fabric & Color Options": "Options de tissu et couleur",
+      "Custom Handles": "Poignées personnalisées",
+      "Packaging Solutions": "Solutions d’emballage",
+      "FAQ": "FAQ",
+      "About": "À propos",
+      "Company Profile": "Profil de l’entreprise",
+      "Factory Capability": "Capacités de production",
+      "Quality Promise": "Engagement qualité",
+      "Certifications": "Certifications",
+      "Resources": "Ressources",
+      "Product Catalog": "Catalogue produits",
+      "Blog": "Blog",
+      "Fabric Guide": "Guide des tissus",
+      "Sourcing Insights": "Conseils d’achat",
+      "Contact": "Contact",
+      "Home": "Accueil",
+      "Get a Quote": "Demander un devis",
+      "Download PDF": "Télécharger le PDF",
+      "Read More": "Lire la suite",
+      "Subscribe": "S’abonner",
+      "Submit Inquiry": "Envoyer la demande",
+      "Submit and Download": "Envoyer et télécharger",
+      "Name": "Nom",
+      "Email": "E-mail",
+      "Country": "Pays",
+      "WhatsApp": "WhatsApp",
+      "Product Type": "Type de produit",
+      "Quantity": "Quantité",
+      "Logo or Design Needs": "Logo ou besoins de design",
+      "Deadline": "Délai souhaité",
+      "Message": "Message",
+      "The Most Reliable Umbrella Manufacturer": "Un fabricant de parapluies fiable",
+      "Custom OEM & ODM umbrellas for global brand buyers, promotional programs and umbrella for own brands products.": "Parapluies OEM et ODM sur mesure pour marques internationales, programmes promotionnels et produits de marque propre.",
+      "OEM/ODM custom manufacturing": "Fabrication sur mesure OEM/ODM",
+      "Sustainable material options": "Options de matériaux responsables",
+      "Low MOQ from 50pcs for selected programs": "MOQ bas dès 50 pièces pour certains programmes",
+      "Latest Insights from Our Umbrella Factory": "Dernières analyses de notre usine de parapluies",
+      "Practical sourcing notes for brand buyers, gift companies and supply chain teams.": "Notes pratiques pour acheteurs de marques, sociétés de cadeaux et équipes supply chain.",
+      "How to Choose a Custom Umbrella Manufacturer": "Comment choisir un fabricant de parapluies sur mesure",
+      "Check factory capability, MOQ, sampling, material options and quality control before placing a bulk order.": "Vérifiez les capacités de production, le MOQ, l’échantillonnage, les matériaux et le contrôle qualité avant une commande en volume.",
+      "Custom Umbrella Printing: Artwork Checklist": "Impression de parapluies : checklist des fichiers",
+      "Prepare vector logos, Pantone colors, panel placement and packaging files for a smoother sample process.": "Préparez logos vectoriels, couleurs Pantone, positionnement sur panneaux et fichiers d’emballage pour fluidifier l’échantillonnage.",
+      "RPET and Nano Splash Fabric Options": "Options RPET et tissu nano-déperlant",
+      "Compare 190T pongee, RPET, UV coating and water-repellent fabric choices for different markets.": "Comparez le pongé 190T, le RPET, le revêtement UV et les tissus déperlants selon les marchés.",
+      "Low MOQ Umbrellas for Brand Launches": "Parapluies à faible MOQ pour lancements de marque",
+      "Use stock colors and selected structures to test a branded umbrella program before scaling up.": "Utilisez des couleurs stock et structures sélectionnées pour tester un programme de marque avant montée en volume.",
+      "Umbrella Categories": "Catégories de parapluies",
+      "Explore the core product families used by global promotional, retail and own-brand buyers.": "Découvrez les familles de produits utilisées par les acheteurs promotionnels, retail et marques propres.",
+      "New Umbrellas": "Nouveaux parapluies",
+      "Featured Products": "Produits phares",
+      "Popular umbrella designs for OEM/ODM customization, promotional gifts and retail brand programs.": "Modèles populaires pour personnalisation OEM/ODM, cadeaux promotionnels et programmes retail de marque.",
+      "High Quality Windproof Golf Umbrella": "Parapluie de golf coupe-vent haute qualité",
+      "Large canopy, fiberglass frame and logo-ready panels for outdoor promotions.": "Grande couverture, structure fibre de verre et panneaux adaptés au logo pour promotions outdoor.",
+      "Custom Compact Umbrella": "Parapluie compact personnalisé",
+      "Compact, portable and suitable for travel, retail and corporate gift programs.": "Compact, portable et adapté au voyage, au retail et aux cadeaux d’entreprise.",
+      "Executive Stick Umbrella": "Parapluie droit premium",
+      "Classic straight profile with premium handle and private label options.": "Format droit classique avec poignée premium et options private label.",
+      "Eco-Friendly Fabric Options": "Options de tissus écoresponsables",
+      "RPET, UV coating, nano splash and Pantone color choices for brand programs.": "RPET, revêtement UV, nano-déperlant et couleurs Pantone pour programmes de marque.",
+      "What Sets Us Apart": "Ce qui nous distingue",
+      "Factory capability matters when your umbrella order needs stable quality, repeatable samples and brand-safe delivery.": "La capacité usine est essentielle pour une qualité stable, des échantillons reproductibles et des livraisons conformes à la marque.",
+      "China Factory": "Usine en Chine",
+      "Factory-direct umbrella manufacturing with flexible custom solutions for global buyers.": "Fabrication directe usine avec solutions personnalisées flexibles pour acheteurs internationaux.",
+      "Our Manufacturing Capabilities": "Nos capacités de fabrication",
+      "Custom Development": "Développement personnalisé",
+      "Logo, fabric, handle, top, strap and packaging choices for private label programs.": "Choix de logo, tissu, poignée, embout, sangle et emballage pour programmes private label.",
+      "Explore Custom Options": "Explorer les options personnalisées",
+      "Quality Control": "Contrôle qualité",
+      "Production process covers cutting, binding, checking, stitching, sewing, inspection and packing.": "Le processus couvre coupe, bordage, contrôle, piqûre, couture, inspection et emballage.",
+      "View Factory Process": "Voir le processus usine",
+      "Sustainability": "Durabilité",
+      "RPET fabric and responsible material options support more conscious sourcing decisions.": "Les tissus RPET et matériaux responsables aident à des décisions d’achat plus durables.",
+      "Read Material Guide": "Lire le guide matériaux",
+      "Certified Manufacturing": "Fabrication certifiée",
+      "Use verified certification files before publishing final claims. Current brief notes BSCI, SEDEX and ISO as available proof points.": "Utilisez les certificats vérifiés avant publication finale. Le brief mentionne BSCI, SEDEX et ISO comme preuves disponibles.",
+      "Our Responsibility": "Notre responsabilité",
+      "As a custom umbrella manufacturer, Blueprint Umbrella focuses on clear material information, reliable sampling, transparent communication and responsible sourcing options for global buyers.": "En tant que fabricant de parapluies personnalisés, Blueprint Umbrella privilégie des informations matériaux claires, un échantillonnage fiable, une communication transparente et des options d’achat responsables.",
+      "Learn About Custom Manufacturing": "Découvrir la fabrication sur mesure",
+      "Newsletter Signup": "Inscription newsletter",
+      "Receive sourcing tips, catalog updates and custom umbrella production notes.": "Recevez conseils d’achat, mises à jour catalogue et notes de production.",
+      "About Us": "À propos de nous",
+      "Contact Us": "Nous contacter",
+      "Reliable OEM & ODM umbrella manufacturer for own-brand customers worldwide.": "Fabricant OEM & ODM fiable pour clients de marque propre dans le monde entier.",
+      "Company figures and certificates should be confirmed before launch. © Blueprint Umbrella Co., Ltd.": "Les données société et certificats doivent être confirmés avant lancement. © Blueprint Umbrella Co., Ltd.",
+      "Get a Custom Umbrella Quote": "Demander un devis de parapluies sur mesure",
+      "Send RFQ": "Envoyer une demande",
+      "Contact details": "Coordonnées",
+      "Use the same contact information across homepage, footer, download page and contact page before final launch.": "Utilisez les mêmes coordonnées sur l’accueil, le pied de page, la page téléchargement et contact avant le lancement final.",
+      "Address": "Adresse",
+      "Factory Location": "Localisation de l’usine",
+      "Visit Blueprint Umbrella in Huizhou": "Visiter Blueprint Umbrella à Huizhou",
+      "Our office is located in Wanyang Science and Technology City, Huidong County, Huizhou, Guangdong. Use OpenStreetMap to check the surrounding area before visiting or arranging logistics.": "Notre bureau est situé à Wanyang Science and Technology City, comté de Huidong, Huizhou, Guangdong. Utilisez OpenStreetMap pour vérifier les environs avant une visite ou une organisation logistique.",
+      "Company Address": "Adresse de l’entreprise",
+      "Open in OpenStreetMap": "Ouvrir dans OpenStreetMap",
+      "OpenStreetMap view of Daling Town, Huidong County, Huizhou": "Vue OpenStreetMap de Daling, Huidong, Huizhou",
+      "Download": "Téléchargement",
+      "Download the Custom Umbrella Catalog": "Télécharger le catalogue de parapluies sur mesure",
+      "What's inside": "Contenu du catalogue",
+      "Get catalog and quote support": "Recevoir le catalogue et un support devis",
+      "Custom Umbrella Product Lines": "Gammes de parapluies personnalisés",
+      "Need a product recommendation?": "Besoin d’une recommandation produit ?"
+    },
+    es: {
+      "Products": "Productos", "Golf Umbrellas": "Paraguas de golf", "Compact Umbrellas": "Paraguas compactos", "Stick Umbrellas": "Paraguas rectos", "Mini Umbrellas": "Mini paraguas", "Promotional Umbrellas": "Paraguas promocionales", "Custom Parts": "Piezas personalizadas", "Applications": "Aplicaciones", "Fashion & Lifestyle Brands": "Marcas de moda y lifestyle", "Corporate Gift Programs": "Programas de regalos corporativos", "Travel & Luggage Brands": "Marcas de viaje y equipaje", "Outdoor & Sports Brands": "Marcas outdoor y deportivas", "Tourism & Museums": "Turismo y museos", "Technical Support": "Soporte técnico", "Logo Printing": "Impresión de logotipo", "Fabric & Color Options": "Opciones de tejido y color", "Custom Handles": "Mangos personalizados", "Packaging Solutions": "Soluciones de embalaje", "FAQ": "FAQ", "About": "Empresa", "Company Profile": "Perfil de empresa", "Factory Capability": "Capacidad de fábrica", "Quality Promise": "Compromiso de calidad", "Certifications": "Certificaciones", "Resources": "Recursos", "Product Catalog": "Catálogo de productos", "Blog": "Blog", "Fabric Guide": "Guía de tejidos", "Sourcing Insights": "Guías de compra", "Contact": "Contacto", "Home": "Inicio", "Get a Quote": "Solicitar cotización", "Read More": "Leer más", "Subscribe": "Suscribirse", "Submit Inquiry": "Enviar consulta", "Name": "Nombre", "Email": "Correo electrónico", "Country": "País", "WhatsApp": "WhatsApp", "Product Type": "Tipo de producto", "Quantity": "Cantidad", "Logo or Design Needs": "Logo o requisitos de diseño", "Deadline": "Fecha objetivo", "Message": "Mensaje",
+      "The Most Reliable Umbrella Manufacturer": "El fabricante de paraguas más confiable", "Custom OEM & ODM umbrellas for global brand buyers, promotional programs and umbrella for own brands products.": "Paraguas OEM y ODM personalizados para compradores de marca, programas promocionales y productos de marca propia.", "OEM/ODM custom manufacturing": "Fabricación personalizada OEM/ODM", "Sustainable material options": "Opciones de materiales sostenibles", "Low MOQ from 50pcs for selected programs": "MOQ bajo desde 50 piezas en programas seleccionados", "Latest Insights from Our Umbrella Factory": "Últimos consejos de nuestra fábrica de paraguas", "Practical sourcing notes for brand buyers, gift companies and supply chain teams.": "Notas prácticas de compra para marcas, empresas de regalos y equipos de cadena de suministro.", "Umbrella Categories": "Categorías de paraguas", "Explore the core product families used by global promotional, retail and own-brand buyers.": "Explore las familias clave utilizadas por compradores promocionales, minoristas y de marca propia.", "New Umbrellas": "Nuevos paraguas", "Featured Products": "Productos destacados", "Popular umbrella designs for OEM/ODM customization, promotional gifts and retail brand programs.": "Diseños populares para personalización OEM/ODM, regalos promocionales y programas retail de marca.", "What Sets Us Apart": "Lo que nos diferencia", "Certified Manufacturing": "Fabricación certificada", "Our Responsibility": "Nuestra responsabilidad", "Newsletter Signup": "Suscripción al boletín", "Contact Us": "Contáctenos", "About Us": "Sobre nosotros", "Reliable OEM & ODM umbrella manufacturer for own-brand customers worldwide.": "Fabricante OEM y ODM confiable de paraguas para clientes de marca propia en todo el mundo.", "Get a Custom Umbrella Quote": "Solicitar cotización de paraguas personalizados", "Send RFQ": "Enviar RFQ", "Contact details": "Datos de contacto", "Address": "Dirección", "Factory Location": "Ubicación de la fábrica", "Visit Blueprint Umbrella in Huizhou": "Visite Blueprint Umbrella en Huizhou", "Company Address": "Dirección de la empresa", "Open in OpenStreetMap": "Abrir en OpenStreetMap", "Download": "Descargar", "Download the Custom Umbrella Catalog": "Descargar catálogo de paraguas personalizados"
+    },
+    pt: {
+      "Products": "Produtos", "Golf Umbrellas": "Guarda-chuvas de golfe", "Compact Umbrellas": "Guarda-chuvas compactos", "Stick Umbrellas": "Guarda-chuvas retos", "Mini Umbrellas": "Mini guarda-chuvas", "Promotional Umbrellas": "Guarda-chuvas promocionais", "Custom Parts": "Peças personalizadas", "Applications": "Aplicações", "Fashion & Lifestyle Brands": "Marcas de moda e lifestyle", "Corporate Gift Programs": "Programas de brindes corporativos", "Travel & Luggage Brands": "Marcas de viagem e bagagem", "Outdoor & Sports Brands": "Marcas outdoor e esportivas", "Tourism & Museums": "Turismo e museus", "Technical Support": "Suporte técnico", "Logo Printing": "Impressão de logotipo", "Fabric & Color Options": "Opções de tecido e cor", "Custom Handles": "Cabos personalizados", "Packaging Solutions": "Soluções de embalagem", "FAQ": "FAQ", "About": "Sobre", "Company Profile": "Perfil da empresa", "Factory Capability": "Capacidade fabril", "Quality Promise": "Compromisso de qualidade", "Certifications": "Certificações", "Resources": "Recursos", "Product Catalog": "Catálogo de produtos", "Blog": "Blog", "Fabric Guide": "Guia de tecidos", "Sourcing Insights": "Insights de sourcing", "Contact": "Contato", "Home": "Início", "Get a Quote": "Solicitar cotação", "Read More": "Ler mais", "Subscribe": "Assinar", "Submit Inquiry": "Enviar consulta", "Name": "Nome", "Email": "E-mail", "Country": "País", "WhatsApp": "WhatsApp", "Product Type": "Tipo de produto", "Quantity": "Quantidade", "Logo or Design Needs": "Logo ou necessidades de design", "Deadline": "Prazo", "Message": "Mensagem",
+      "The Most Reliable Umbrella Manufacturer": "O fabricante de guarda-chuvas mais confiável", "Custom OEM & ODM umbrellas for global brand buyers, promotional programs and umbrella for own brands products.": "Guarda-chuvas OEM e ODM personalizados para compradores globais, programas promocionais e produtos de marca própria.", "OEM/ODM custom manufacturing": "Fabricação personalizada OEM/ODM", "Sustainable material options": "Opções de materiais sustentáveis", "Low MOQ from 50pcs for selected programs": "MOQ baixo a partir de 50 peças em programas selecionados", "Umbrella Categories": "Categorias de guarda-chuvas", "Featured Products": "Produtos em destaque", "What Sets Us Apart": "Nossos diferenciais", "Certified Manufacturing": "Fabricação certificada", "Our Responsibility": "Nossa responsabilidade", "Newsletter Signup": "Cadastro na newsletter", "Contact Us": "Fale conosco", "About Us": "Sobre nós", "Get a Custom Umbrella Quote": "Solicitar cotação de guarda-chuvas personalizados", "Send RFQ": "Enviar RFQ", "Contact details": "Dados de contato", "Address": "Endereço", "Factory Location": "Localização da fábrica", "Visit Blueprint Umbrella in Huizhou": "Visite a Blueprint Umbrella em Huizhou", "Company Address": "Endereço da empresa", "Open in OpenStreetMap": "Abrir no OpenStreetMap", "Download": "Download"
+    },
+    it: {
+      "Products": "Prodotti", "Golf Umbrellas": "Ombrelli da golf", "Compact Umbrellas": "Ombrelli compatti", "Stick Umbrellas": "Ombrelli diritti", "Mini Umbrellas": "Mini ombrelli", "Promotional Umbrellas": "Ombrelli promozionali", "Custom Parts": "Componenti personalizzati", "Applications": "Applicazioni", "Fashion & Lifestyle Brands": "Marchi moda e lifestyle", "Corporate Gift Programs": "Programmi regalo aziendali", "Travel & Luggage Brands": "Marchi viaggio e bagagli", "Outdoor & Sports Brands": "Marchi outdoor e sport", "Tourism & Museums": "Turismo e musei", "Technical Support": "Supporto tecnico", "Logo Printing": "Stampa logo", "Fabric & Color Options": "Opzioni tessuto e colore", "Custom Handles": "Manici personalizzati", "Packaging Solutions": "Soluzioni di packaging", "FAQ": "FAQ", "About": "Chi siamo", "Company Profile": "Profilo aziendale", "Factory Capability": "Capacità produttiva", "Quality Promise": "Promessa di qualità", "Certifications": "Certificazioni", "Resources": "Risorse", "Product Catalog": "Catalogo prodotti", "Blog": "Blog", "Fabric Guide": "Guida tessuti", "Sourcing Insights": "Approfondimenti sourcing", "Contact": "Contatti", "Home": "Home", "Get a Quote": "Richiedi preventivo", "Read More": "Leggi di più", "Subscribe": "Iscriviti", "Submit Inquiry": "Invia richiesta", "Name": "Nome", "Email": "E-mail", "Country": "Paese", "WhatsApp": "WhatsApp", "Product Type": "Tipo di prodotto", "Quantity": "Quantità", "Logo or Design Needs": "Logo o esigenze di design", "Deadline": "Scadenza", "Message": "Messaggio",
+      "The Most Reliable Umbrella Manufacturer": "Il produttore di ombrelli più affidabile", "Custom OEM & ODM umbrellas for global brand buyers, promotional programs and umbrella for own brands products.": "Ombrelli OEM e ODM personalizzati per buyer globali, programmi promozionali e prodotti a marchio proprio.", "OEM/ODM custom manufacturing": "Produzione personalizzata OEM/ODM", "Sustainable material options": "Opzioni di materiali sostenibili", "Low MOQ from 50pcs for selected programs": "MOQ basso da 50 pezzi per programmi selezionati", "Umbrella Categories": "Categorie di ombrelli", "Featured Products": "Prodotti in evidenza", "What Sets Us Apart": "Cosa ci distingue", "Certified Manufacturing": "Produzione certificata", "Our Responsibility": "La nostra responsabilità", "Newsletter Signup": "Iscrizione newsletter", "Contact Us": "Contattaci", "About Us": "Chi siamo", "Get a Custom Umbrella Quote": "Richiedi un preventivo per ombrelli personalizzati", "Send RFQ": "Invia RFQ", "Contact details": "Dettagli di contatto", "Address": "Indirizzo", "Factory Location": "Sede della fabbrica", "Visit Blueprint Umbrella in Huizhou": "Visita Blueprint Umbrella a Huizhou", "Company Address": "Indirizzo aziendale", "Open in OpenStreetMap": "Apri in OpenStreetMap", "Download": "Download"
+    },
+    ru: {
+      "Products": "Продукция", "Golf Umbrellas": "Гольф-зонты", "Compact Umbrellas": "Компактные зонты", "Stick Umbrellas": "Прямые зонты", "Mini Umbrellas": "Мини-зонты", "Promotional Umbrellas": "Промо-зонты", "Custom Parts": "Индивидуальные детали", "Applications": "Применение", "Fashion & Lifestyle Brands": "Fashion и lifestyle бренды", "Corporate Gift Programs": "Корпоративные подарки", "Travel & Luggage Brands": "Бренды путешествий и багажа", "Outdoor & Sports Brands": "Outdoor и спортивные бренды", "Tourism & Museums": "Туризм и музеи", "Technical Support": "Техническая поддержка", "Logo Printing": "Печать логотипа", "Fabric & Color Options": "Ткани и цвета", "Custom Handles": "Индивидуальные ручки", "Packaging Solutions": "Упаковочные решения", "FAQ": "FAQ", "About": "О компании", "Company Profile": "Профиль компании", "Factory Capability": "Возможности фабрики", "Quality Promise": "Гарантия качества", "Certifications": "Сертификаты", "Resources": "Ресурсы", "Product Catalog": "Каталог продукции", "Blog": "Блог", "Fabric Guide": "Гид по тканям", "Sourcing Insights": "Закупочные материалы", "Contact": "Контакты", "Home": "Главная", "Get a Quote": "Запросить цену", "Read More": "Подробнее", "Subscribe": "Подписаться", "Submit Inquiry": "Отправить запрос", "Name": "Имя", "Email": "E-mail", "Country": "Страна", "WhatsApp": "WhatsApp", "Product Type": "Тип продукта", "Quantity": "Количество", "Logo or Design Needs": "Логотип или дизайн", "Deadline": "Срок", "Message": "Сообщение",
+      "The Most Reliable Umbrella Manufacturer": "Надежный производитель зонтов", "Custom OEM & ODM umbrellas for global brand buyers, promotional programs and umbrella for own brands products.": "OEM и ODM зонты на заказ для международных брендов, промо-программ и private label проектов.", "OEM/ODM custom manufacturing": "OEM/ODM производство на заказ", "Sustainable material options": "Варианты экологичных материалов", "Low MOQ from 50pcs for selected programs": "Низкий MOQ от 50 шт. для выбранных программ", "Umbrella Categories": "Категории зонтов", "Featured Products": "Рекомендуемые продукты", "What Sets Us Apart": "Наши преимущества", "Certified Manufacturing": "Сертифицированное производство", "Our Responsibility": "Наша ответственность", "Newsletter Signup": "Подписка на новости", "Contact Us": "Связаться с нами", "About Us": "О нас", "Get a Custom Umbrella Quote": "Запрос цены на зонты на заказ", "Send RFQ": "Отправить RFQ", "Contact details": "Контактная информация", "Address": "Адрес", "Factory Location": "Расположение фабрики", "Visit Blueprint Umbrella in Huizhou": "Посетите Blueprint Umbrella в Хуэйчжоу", "Company Address": "Адрес компании", "Open in OpenStreetMap": "Открыть в OpenStreetMap", "Download": "Скачать"
+    },
+    ja: {
+      "Products": "製品", "Golf Umbrellas": "ゴルフ傘", "Compact Umbrellas": "コンパクト傘", "Stick Umbrellas": "長傘", "Mini Umbrellas": "ミニ傘", "Promotional Umbrellas": "販促用傘", "Custom Parts": "カスタムパーツ", "Applications": "用途", "Fashion & Lifestyle Brands": "ファッション・ライフスタイルブランド", "Corporate Gift Programs": "法人ギフトプログラム", "Travel & Luggage Brands": "旅行・バッグブランド", "Outdoor & Sports Brands": "アウトドア・スポーツブランド", "Tourism & Museums": "観光・ミュージアム", "Technical Support": "技術サポート", "Logo Printing": "ロゴ印刷", "Fabric & Color Options": "生地・カラーオプション", "Custom Handles": "カスタムハンドル", "Packaging Solutions": "包装ソリューション", "FAQ": "FAQ", "About": "会社情報", "Company Profile": "会社概要", "Factory Capability": "工場対応力", "Quality Promise": "品質への約束", "Certifications": "認証", "Resources": "リソース", "Product Catalog": "製品カタログ", "Blog": "ブログ", "Fabric Guide": "生地ガイド", "Sourcing Insights": "調達インサイト", "Contact": "お問い合わせ", "Home": "ホーム", "Get a Quote": "見積依頼", "Read More": "続きを読む", "Subscribe": "購読する", "Submit Inquiry": "問い合わせを送信", "Name": "お名前", "Email": "メール", "Country": "国", "WhatsApp": "WhatsApp", "Product Type": "製品タイプ", "Quantity": "数量", "Logo or Design Needs": "ロゴ・デザイン要件", "Deadline": "希望納期", "Message": "メッセージ",
+      "The Most Reliable Umbrella Manufacturer": "信頼できる傘メーカー", "Custom OEM & ODM umbrellas for global brand buyers, promotional programs and umbrella for own brands products.": "世界のブランドバイヤー、販促プログラム、自社ブランド向けのカスタムOEM/ODM傘を提供します。", "OEM/ODM custom manufacturing": "OEM/ODMカスタム製造", "Sustainable material options": "サステナブル素材オプション", "Low MOQ from 50pcs for selected programs": "対象プログラムは50本からの低MOQ対応", "Umbrella Categories": "傘カテゴリー", "Featured Products": "注目製品", "What Sets Us Apart": "当社の強み", "Certified Manufacturing": "認証対応の製造", "Our Responsibility": "当社の責任", "Newsletter Signup": "ニュースレター登録", "Contact Us": "お問い合わせ", "About Us": "会社情報", "Get a Custom Umbrella Quote": "カスタム傘の見積依頼", "Send RFQ": "RFQを送信", "Contact details": "連絡先情報", "Address": "住所", "Factory Location": "工場所在地", "Visit Blueprint Umbrella in Huizhou": "恵州のBlueprint Umbrellaへ", "Company Address": "会社住所", "Open in OpenStreetMap": "OpenStreetMapで開く", "Download": "ダウンロード"
+    }
+  }
+};
